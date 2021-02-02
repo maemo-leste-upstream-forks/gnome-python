@@ -342,7 +342,6 @@ AC_CONFIG_FILES(
   gnomevfs/Makefile
   gnomecanvas/Makefile
   bonobo/Makefile
-  tests/Makefile
   gnome-python.spec
   gnome-python-2.0.pc
   PKG-INFO)

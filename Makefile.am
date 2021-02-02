@@ -26,10 +26,6 @@ if BUILD_GNOMECANVAS
 SUBDIRS += gnomecanvas
 endif
 
-SUBDIRS += tests
-
-
-
 pkgconfigdir = $(libdir)/pkgconfig
 pkgconfig_DATA = gnome-python-2.0.pc
 
