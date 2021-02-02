@@ -3,7 +3,7 @@ Section: python
 Priority: optional
 Maintainer: Ivan J. <parazyd@dyne.org>
 Uploaders: @GNOME_TEAM@
-Build-Depends: debhelper-compat (>= 12),
+Build-Depends: debhelper-compat (= 12),
                gnome-pkg-tools (>= 0.10),
                python-all-dev (>= 2.6.6-3~),
                python-gobject-2-dev (>= 2.17.0),
